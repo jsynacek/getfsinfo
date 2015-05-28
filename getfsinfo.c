@@ -21,7 +21,11 @@
  * Floor, Boston, MA 02110-1301, USA.
  */
 
-/* TODO:
+/*
+ * Notes:
+ *  Yes, there are leaks in the code, I know...
+ *
+ * TODO:
  *  - add switch to display values in bytes, not only human readable
  *  - add pretty output
  */
